@@ -9,4 +9,4 @@ Just web development, persistance and cookies
 + a lot more :D
 
 ## Contact
-- @babizhon000
+- @babizhon000 on TG
