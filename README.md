@@ -7,3 +7,6 @@ Just web development, persistance and cookies
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
+
+## Contact
+- @babizhon000
